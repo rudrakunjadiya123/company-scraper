@@ -1,0 +1,15 @@
+{
+  "locations": ["Ahmedabad", "Gandhinagar"],
+  "outputFile": "output/ahmedabad_gandhinagar_companies.csv",
+  "companyTypes": [
+    "IT companies",
+    "software companies",
+    "web development companies",
+    "software development company",
+    "mobile app development company",
+    "IT services companies",
+    "tech startups"
+  ],
+  "maxCompanies": 0,
+  "headless": false
+}
