@@ -1,0 +1,22 @@
+{
+  "name": "company-scraper",
+  "version": "1.0.0",
+  "description": "Minimal Playwright scraper for company discovery and salary matching",
+  "main": "scraper.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node scraper.js",
+    "scrape:companies": "node scraper.js"
+  },
+  "keywords": [
+    "scraper",
+    "playwright",
+    "salaries",
+    "jobs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.50.0"
+  }
+}
