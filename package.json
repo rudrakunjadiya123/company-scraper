@@ -6,7 +6,8 @@
   "type": "commonjs",
   "scripts": {
     "start": "node scraper.js",
-    "scrape:companies": "node scraper.js"
+    "scrape:companies": "node scraper.js",
+    "verify:salaries": "node salary_verifier.js"
   },
   "keywords": [
     "scraper",
